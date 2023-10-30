@@ -1,0 +1,10 @@
+Desarrollo 
+1. La API Es un conjunto de reglas que permite que los programas se pueda conectarse y comunicarse entre si, su transmicion de datos esta en formato JSON 
+
+Ademas la Api puede solicitar, consumir sus recursos y enviar informacion entre las partes, su ventaja es que facilita el desarrollo y la integracion del software que puede reutilizar funciones o datos existentes. 
+
+2. en su sigla significa Representational state transfer, proporcional un nivel alto de flexibilidad y libertad a los desarrolladores, es un metodo comun para conectar componentes y aplicaciones, su comunicacion esta mediante por protocolo http donde puede interactuar con el cliente - servidor y estar por sistema por capas. sus 4 recursos son GET, POST, PUT, DELETE.
+
+3. Sus principio claves son uno el recurso que es la construccion del api, que se basa en la creacion del recursos, Los verbos HTTP que se componen en GET, POST, PUT, DELETE Y PATCH. El sin estado que cada solicitud de recursos son unico e individuales, El desacoplamiento Cliente /Servidor que esta capacidad esta dada principalmente a las peticiones que se puede realizar distinta base de datos, la capacidad de cache y arquitecturas en capas
+
+4. Es un tipo de tecnologia (hardware y/o software) que almacena informacion que sera accesible en el futuro y es muy rapido ya que puede devolver una peticion de informacion lo mas rapido posible. lo que significa que su tecnica es reduccion de tiempo de acceso a la informacion y mejora el rendimiento del sistema.
